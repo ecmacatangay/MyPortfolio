@@ -1,2 +1,3 @@
-# MyPortfolio
-Data Analyst specialize in E-commerce and Churn Analysis. Provide business insights, strategies, recommendation and collaboration with team Technical and Non-technical.
+Data Analyst specializing in E‑commerce and Churn Analysis.  
+Exploring customer behavior, retention strategies, and business insights through real-world datasets.  
+Projects include dashboards and ETL workflows showcasing skills in SQL, Python, and BI tools.
