@@ -23,7 +23,7 @@ Effectiveness*.
 
 ![](./images/media/image2.png)
 
-## Sales Insights
+<h1 align="center">Sales Insights </h1>
 
 ## 1. Sales Growth
 
@@ -77,10 +77,9 @@ Effectiveness*.
 
 - **Customer Retention:** Introduce loyalty programs or subscription
   models to sustain engagement beyond seasonal peaks.
-## Product Performance
+<h1 align="center">Product Performance</h1>
+
 ![](./images/media/image3.png)
-
-
 ![](./images/media/image4.png)
 
 ## 1. Overall Findings
@@ -135,7 +134,7 @@ Effectiveness*.
   align campaigns with local holidays and mega events (Back to school
   Promo, Black Friday, and mid-year sales).
 
-## Marketing Performance
+<h1 align="center">Marketing Performance</h1>
 
 ![](./images/media/image5.png)
 
