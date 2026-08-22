@@ -19,7 +19,7 @@ decision making and want to uncover *Sales Trends*, *Product
 Performance*, *Regional Dynamics*, and *Marketing Channel
 Effectiveness*.
 
-## Executive Summary
+<h1 align="center">Executive Summary </h1>
 
 ![](./images/media/image2.png)
 
